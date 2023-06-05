@@ -4,3 +4,4 @@ A Java app to compress and decompress files is a software application that allow
 
 The app provides users with a simple and intuitive graphical user interface (GUI) that allows them to select the files they want to compress or decompress.To compress a file using the app, the user selects the file they want to compress. The app then compresses the file and saves it to the same location with name-"Compressedfile" but with a different file extension.Same is the process to decompress.
 Overall, the Java app to compress and decompress files is a useful and valuable tool for anyone who needs to manage and work with large files on a regular basis.
+![Screenshot (1571)](https://github.com/ayu6190/Compressor_Decompressor/assets/114721659/3e6456ad-d3f8-4822-b9ab-1f4f52101dc8)
